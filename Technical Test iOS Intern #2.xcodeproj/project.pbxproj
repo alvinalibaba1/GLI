@@ -91,8 +91,8 @@
 				5A10B1672D6055EB000DB3AC /* Data */,
 				5A10B1682D6055EB000DB3AC /* Presentation */,
 				5A10B1BE2D6092A6000DB3AC /* Resources */,
-				5A10B1C22D6092C2000DB3AC /* Helper */,
 				5A10B1572D6053E8000DB3AC /* LaunchScreen.storyboard */,
+				5A10B1C12D6092C2000DB3AC /* Info.plist */,
 				5A10B1592D6053E8000DB3AC /* Main.storyboard */,
 			);
 			path = "Technical Test iOS Intern #2";
@@ -238,14 +238,6 @@
 				5A10B1BD2D6092A6000DB3AC /* Images */,
 			);
 			path = Resources;
-			sourceTree = "<group>";
-		};
-		5A10B1C22D6092C2000DB3AC /* Helper */ = {
-			isa = PBXGroup;
-			children = (
-				5A10B1C12D6092C2000DB3AC /* Info.plist */,
-			);
-			path = Helper;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
